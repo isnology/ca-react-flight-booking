@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.btn {
+  color: #111;
+  background: white;
+  border: 1px solid #aaa;
+  border-radius: 3px;
+}
+
+.btn--primary {
+  background-color: rgb(215, 66, 40);
+} 
+
+.btn--rainbow {
+  background: linear-gradient(to right, red, orange , yellow, green, cyan, blue, violet); 
+}
